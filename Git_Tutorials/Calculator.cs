@@ -1,10 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Git_Tutorials
+﻿namespace Git_Tutorials
 {
-    class Calculator
+    public class Calculator
     {
+        public static int AddTwoNumbers(int num1, int num2)
+        {
+            return num1 + num2;
+        }
     }
 }
