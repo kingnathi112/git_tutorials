@@ -13,5 +13,11 @@
         {
             return num1 - num2;
         }
+
+        //This multiply two numbers
+        public static int MultiplyTwoNumbers(int num1, int num2)
+        {
+            return num1 * num2;
+        }
     }
 }
