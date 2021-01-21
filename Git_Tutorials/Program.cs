@@ -6,8 +6,12 @@ namespace Git_Tutorials
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("This is a initial commit!");
-            Console.WriteLine("I have made changes, please merge them with yours");
+            Console.WriteLine("Please supply first number:");
+            int firstnumber = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Please supply second number:");
+            int secondnumber = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine($"{firstnumber} + {secondnumber} = {Calculator.AddTwoNumbers(firstnumber,secondnumber)}");
         }
     }
 }
