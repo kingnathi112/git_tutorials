@@ -4,7 +4,11 @@ using System.Text;
 
 namespace Git_Tutorials
 {
-    class Calculator
+    public class Calculator
     {
+        public static int SubtractTwoNumbers(int num1, int num2)
+        {
+            return num1 - num2;
+        }
     }
 }
