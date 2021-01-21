@@ -8,23 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\nkosinathim\\.nuget\\packages\\": {},
+    "C:\\Users\\KingNathi\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GitHub Projects\\Github_Tutorials\\git_tutorials\\Git_Tutorials\\Git_Tutorials.csproj",
+      "projectUniqueName": "C:\\Github\\git_tutorials\\Git_Tutorials\\Git_Tutorials.csproj",
       "projectName": "Git_Tutorials",
-      "projectPath": "C:\\GitHub Projects\\Github_Tutorials\\git_tutorials\\Git_Tutorials\\Git_Tutorials.csproj",
-      "packagesPath": "C:\\Users\\nkosinathim\\.nuget\\packages\\",
-      "outputPath": "C:\\GitHub Projects\\Github_Tutorials\\git_tutorials\\Git_Tutorials\\obj\\",
+      "projectPath": "C:\\Github\\git_tutorials\\Git_Tutorials\\Git_Tutorials.csproj",
+      "packagesPath": "C:\\Users\\KingNathi\\.nuget\\packages\\",
+      "outputPath": "C:\\Github\\git_tutorials\\Git_Tutorials\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\nkosinathim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\KingNathi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -32,7 +32,6 @@
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -65,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
