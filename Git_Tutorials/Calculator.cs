@@ -13,5 +13,11 @@
         {
             return num1 - num2;
         }
+
+        //This divide two numbers
+        public static double DivideTwoNumbers(int num1, int num2)
+        {
+            return num1 / num2;
+        }
     }
 }
